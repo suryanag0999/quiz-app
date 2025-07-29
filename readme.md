@@ -1,7 +1,7 @@
 Quiz App – MERN Full Stack
 An interactive and responsive Quiz Application built using the MERN stack (MongoDB, Express, React, Node), styled with Tailwind CSS, and enhanced with shhad-cn for screen state control and react-toastify for elegant notifications.
 
-🚀 Features
+ Features
 Multiple categories & dynamic questions
 Start, active, and result screens managed via shhad-cn
 Real-time quiz validation
